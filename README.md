@@ -23,4 +23,11 @@ Using the above route You can see the full list of the subscribers with only "na
 http://localhost:3000/subscribers/<id>
 Using the above route you can see the details of the ojbect of the given particular object id.
 
+<<<<<<< HEAD
 Deployed Link :
+=======
+Deployed Link :
+
+
+
+>>>>>>> 75cfc8a6c94303790ead9aa08855ae0252481922

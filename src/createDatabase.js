@@ -12,7 +12,7 @@ db.once('open', () => console.log('Database updated...'))
 const refreshAll = async () => {
     await subscriberModel.deleteMany({})    
     // console.log(connection)
-    // await subscriberModel.insertMany(data)
+    await subscriberModel.insertMany(data)
     await mongoose.disconnect();
 }
 refreshAll()
